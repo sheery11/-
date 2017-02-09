@@ -1,0 +1,11 @@
+﻿  main.c
+c:\users\deii\desktop\2.2检测大创\speechdictation\speechdictation\main.c(52): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\deii\desktop\2.2检测大创\speechdictation\speechdictation\main.c(121): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+c:\users\deii\desktop\2.2检测大创\speechdictation\speechdictation\main.c(141): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\deii\desktop\2.2检测大创\speechdictation\speechdictation\main.c(85): warning C4047: “初始化”:“char”与“void *”的间接级别不同
+c:\users\deii\desktop\2.2检测大创\speechdictation\speechdictation\main.c(86): warning C4047: “初始化”:“char”与“void *”的间接级别不同
+c:\users\deii\desktop\2.2检测大创\speechdictation\speechdictation\main.c(171): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\deii\desktop\2.2检测大创\speechdictation\speechdictation\main.c(203): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  SpeechDictation.vcxproj -> C:\Users\deii\Desktop\2.2检测大创\SpeechDictation\x64\Debug\SpeechDictation.exe
+  SpeechDictation.vcxproj -> C:\Users\deii\Desktop\2.2检测大创\SpeechDictation\x64\Debug\SpeechDictation.pdb (Full PDB)
+  已复制         1 个文件。
